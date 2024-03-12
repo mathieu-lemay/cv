@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "mathieu-lemay-cv"
+version = "0.1.0"
+description = ""
+authors = ["Mathieu Lemay <acidrain1@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+rendercv = "^1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
