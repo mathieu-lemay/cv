@@ -6,4 +6,7 @@ rendercv_output/Mathieu_Lemay_CV.pdf: Mathieu_Lemay_CV.yaml
 	poetry run rendercv render Mathieu_Lemay_CV.yaml
 
 install:
-	poetry install
+	poetry install --no-root
+
+clean:
+	rm -rf rendercv_output
