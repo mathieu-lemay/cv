@@ -18,33 +18,38 @@
 - Helped a customer switch from Bitbucket + Bitbucket Pipelines to GitHub + CircleCI.
 - Helped a customer move a legacy API to Docker + Kubernetes.
 - Helped a customer improve their monitoring in Datadog by adding correlation in the logs and streamlining the logging across multiple applications.
+- Technologies used: Python, pytest, CircleCI, Bitbucket Pipelines, Datadog, AWS, Docker, Kubernetes, Helm
 
 ## BoostSecurity.io, Senior Software Developer
 
 - May 2022 to Aug. 2023 
 
-- Designed and implemented multiple microservices for the main BoostSecurity.io platform.
+- Designed and implemented multiple microservices for the highly distributed BoostSecurity.io platform.
 - Implemented a managed system to provision and run security scanners in our customers’ different CI systems (Azure Devops, Bitbucket Pipelines, GitHub Actions, GitLab CI/CD).
 - Enforced good code practices to ensure the maintainability and testability of our software.
 - Acted as squad leader for one of the two backend development teams.
 - Mentored a junior developer in the team.
+- Technologies used: Python, FastAPI, pytest, MySQL, Kafka, AWS, Kubernetes, Helm, Terraform, Auth0
 
 ## Broadsign, Staff Software Developer
 
 - Dec. 2017 to May 2022 
 
 - Optimized the computation of a key cache by rewriting it in Rust, reducing the computation time by around 95% the number of cores needed for the database server by about 75%.
-- Developed solutions to optimize delivery of OOH advertising campaigns.
+- Developed an algorithm to rebalance hundreds of advertising campaigns over thousands of screens in order ot optimize their number of views.
 - Moved two major projects from manually maintained virtual machines to a Kubernetes cluster.
 - Improved continuous delivery of the software, reducing lead times for changes from multiple days to a few hours.
 - Helped the team adopt better coding practices and test driven development.
+- Technologies used: Python, Rust, Flask, PostgreSQL, Docker, AWS, Kubernetes, Helm, Bitbucket Pipelines
 
 ## PBSC Urban Solutions, Senior Java Developer
 
 - Nov. 2016 to Dec. 2017 
 
+- Development of the backend software to manage bike sharing systems and setting up continuous integration.
 - Helped migrating a legacy JSP application to a REST API.
 - Maintained Jenkins CI pipelines for multiple projects.
+- Technologies used: Java, JUnit, Spring, Maven, Docker, MySQL, ElasticSearch and Jenkins
 
 # Previous Experience
 
