@@ -373,13 +373,13 @@ windows-terminal = ["colorama (>=0.4.6)"]
 
 [[package]]
 name = "rendercv"
-version = "1.4"
+version = "1.6"
 description = "LaTeX CV generator engine from a YAML input file"
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "rendercv-1.4-py3-none-any.whl", hash = "sha256:b2bf83553bd3bc243483fe0cdd5896845144721879a1eccd0df61b86bde378d8"},
-    {file = "rendercv-1.4.tar.gz", hash = "sha256:be4d4c6cc82cd9246b37eb4399d40ec4dc115554b7ddb2c1b2e907582a7bc85f"},
+    {file = "rendercv-1.6-py3-none-any.whl", hash = "sha256:2cef0a2cc6241a2c72aad15bf82af13b62840cb7866879fea0ad2fbe643bc3b2"},
+    {file = "rendercv-1.6.tar.gz", hash = "sha256:e347406b1b363210bdd1a85f2b99860babd87b1e910d44dad55fe2ce31a063b3"},
 ]
 
 [package.dependencies]
