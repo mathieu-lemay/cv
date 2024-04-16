@@ -87,10 +87,9 @@ cv:
 design:
   theme: classic
   font_size: 10pt
-  page_size: letterpaper
+  page_size: a4paper
   color: "#3873b3"
   disable_page_numbering: true
-  show_last_updated_date: true
   header_font_size: 24 pt
   text_alignment: left-aligned
   show_timespan_in: []
