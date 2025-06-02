@@ -94,7 +94,7 @@ cv:
       - label: English
         details: Fluent
 design:
-  theme: classic
+  theme: moderncv
   text:
     font_size: 10pt
   header:
