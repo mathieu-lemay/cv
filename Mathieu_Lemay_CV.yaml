@@ -95,19 +95,18 @@ cv:
         details: Fluent
 design:
   theme: classic
-  font_size: 10pt
-  page_size: a4paper
-  color: "#3873b3"
-  disable_page_numbering: true
-  header_font_size: 24 pt
-  text_alignment: left-aligned
-  show_timespan_in: []
-    # - "Relevant Experience"
-    # - "Previous Experience"
-# design:
-#   theme: moderncv
-#   color: blue
-#   font_size: 10pt
-#   page_size: letterpaper
-#   disable_page_numbers: true
-#   content_scale: 0.76
+  text:
+    font_size: 10pt
+  header:
+    name_font_size: 24pt
+  page:
+    size: a4
+    show_last_updated_date: false
+    show_page_numbering: false
+  colors:
+    text: rgb(0,0,0)
+    name: "#3873b3"
+    section_titles: "#3873b3"
+    connections: "#3873b3"
+    links: "#3873b3"
+    last_updated_date_and_page_numbering: "#808080"
