@@ -10,7 +10,7 @@
 
 # Relevant Experience
 
-## Rogue Consulting, Consultant at Rona
+## RogueConsulting.dev, Consultant at Rona
 
 - May 2024 – present
 - Tech Lead for the new microservices team
@@ -19,7 +19,7 @@
 - Ensured the quality and consistency of the code for multiple teams
 - Technologies used: Go, Python, GCP, PostgreSQL, Kubernetes, Helm
 
-## Rogue Consulting, Software Development Consultant
+## RogueConsulting.dev, Software Development Consultant
 
 - Aug 2023 – present
 - Offering services such as designing and developing features, optimization, TDD coaching, CI/CD optimization.
