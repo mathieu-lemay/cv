@@ -11,6 +11,15 @@ cv:
       username: mathieu-lemay
   sections:
     relevant_experience:
+      - position: Consultant at Rona
+        company: Rogue Consulting
+        start_date: "2024-05-26"
+        highlights:
+          - Tech Lead for the new microservices team
+          - Built the foundations for the microservices
+          - Migrated functionality of legacy systems to new microservices
+          - Ensured the quality and consistency of the code for multiple teams
+          - "Technologies used: Go, Python, GCP, PostgreSQL, Kubernetes, Helm"
       - position: Software Development Consultant
         company: Rogue Consulting
         start_date: "2023-08-28"
@@ -74,11 +83,11 @@ cv:
         details: A rust tool to show all the paths/values in a json/yaml document to help with grep.
     technologies:
       - label: Languages
-        details: Python, Bash, Rust, SQL, Java, C#
+        details: Python, Go, Rust, Java, C#, Bash, SQL
       - label: Frameworks / Platforms
         details: FastAPI, Flask, SQLAlchemy, Celery, Faust, PostgreSQL, MySQL
       - label: Tools
-        details: Git, Docker, AWS, Kubernetes, Datadog, Kafka, Terraform, Linux, CI/CD, TDD
+        details: Git, Docker, AWS, GCP, Kubernetes, Datadog, Kafka, Terraform, Linux, CI/CD, TDD
     languages:
       - label: French
         details: Native

@@ -10,10 +10,18 @@
 
 # Relevant Experience
 
+## Rogue Consulting, Consultant at Rona
+
+- May 2024 – present
+- Tech Lead for the new microservices team
+- Built the foundations for the microservices
+- Migrated functionality of legacy systems to new microservices
+- Ensured the quality and consistency of the code for multiple teams
+- Technologies used: Go, Python, GCP, PostgreSQL, Kubernetes, Helm
+
 ## Rogue Consulting, Software Development Consultant
 
-- Aug. 2023 to present 
-
+- Aug 2023 – present
 - Offering services such as designing and developing features, optimization, TDD coaching, CI/CD optimization.
 - Helped a customer switch from Bitbucket + Bitbucket Pipelines to GitHub + CircleCI.
 - Helped a customer move a legacy API to Docker + Kubernetes.
@@ -22,8 +30,7 @@
 
 ## BoostSecurity.io, Senior Software Developer
 
-- May 2022 to Aug. 2023 
-
+- May 2022 – Aug 2023
 - Designed and implemented multiple microservices for the highly distributed BoostSecurity.io platform.
 - Implemented a managed system to provision and run security scanners in our customers’ different CI systems (Azure Devops, Bitbucket Pipelines, GitHub Actions, GitLab CI/CD).
 - Enforced good code practices to ensure the maintainability and testability of our software.
@@ -33,8 +40,7 @@
 
 ## Broadsign, Staff Software Developer
 
-- Dec. 2017 to May 2022 
-
+- Dec 2017 – May 2022
 - Optimized the computation of a key cache by rewriting it in Rust, reducing the computation time by around 95% the number of cores needed for the database server by about 75%.
 - Developed an algorithm to rebalance hundreds of advertising campaigns over thousands of screens in order ot optimize their number of views.
 - Moved two major projects from manually maintained virtual machines to a Kubernetes cluster.
@@ -44,8 +50,7 @@
 
 ## PBSC Urban Solutions, Senior Java Developer
 
-- Nov. 2016 to Dec. 2017 
-
+- Nov 2016 – Dec 2017
 - Development of the backend software to manage bike sharing systems and setting up continuous integration.
 - Helped migrating a legacy JSP application to a REST API.
 - Maintained Jenkins CI pipelines for multiple projects.
@@ -55,20 +60,17 @@
 
 ## GEE Media, Software Developer
 
-- June 2011 to Nov. 2016 
-
+- June 2011 – Nov 2016
 
 ## Biblio Mondo, Software Developer
 
-- Aug. 2009 to June 2011 
-
+- Aug 2009 – June 2011
 
 # Education
 
 ## Cégep du Vieux Montréal, Computer Science Technology
 
-- 2006 to 2009 
-
+- 2006 – 2009
 
 # Projects
 
@@ -77,9 +79,9 @@
 - [json-struct](https://github.com/mathieu-lemay/json-struct): A rust tool to show all the paths/values in a json/yaml document to help with grep.
 # Technologies
 
-- Languages: Python, Bash, Rust, SQL, Java, C#
+- Languages: Python, Go, Rust, Java, C#, Bash, SQL
 - Frameworks / Platforms: FastAPI, Flask, SQLAlchemy, Celery, Faust, PostgreSQL, MySQL
-- Tools: Git, Docker, AWS, Kubernetes, Datadog, Kafka, Terraform, Linux, CI/CD, TDD
+- Tools: Git, Docker, AWS, GCP, Kubernetes, Datadog, Kafka, Terraform, Linux, CI/CD, TDD
 # Languages
 
 - French: Native
