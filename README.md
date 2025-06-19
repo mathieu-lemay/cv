@@ -1,11 +1,12 @@
 # Mathieu Lemay's CV
 
 - Phone: +1 514 433 5179
-- Email: [contact@mathieulemay.net](mailto:contact@mathieulemay.net)
+- Email: [mathieu@rogueconsulting.dev](mailto:mathieu@rogueconsulting.dev)
 - Location: Montréal, QC
 - Website: [mathieulemay.net](https://mathieulemay.net/)
 - LinkedIn: [mathieu-lemay-dev](https://linkedin.com/in/mathieu-lemay-dev)
 - GitHub: [mathieu-lemay](https://github.com/mathieu-lemay)
+- GitHub: [RogueConsultingDev](https://github.com/RogueConsultingDev)
 
 
 # Relevant Experience

@@ -1,7 +1,7 @@
 cv:
   name: Mathieu Lemay
   location: Montréal, QC
-  email: contact@mathieulemay.net
+  email: mathieu@rogueconsulting.dev
   phone: tel:+1 514-433-5179
   website: https://mathieulemay.net
   social_networks:
@@ -9,6 +9,8 @@ cv:
       username: mathieu-lemay-dev
     - network: GitHub
       username: mathieu-lemay
+    - network: GitHub
+      username: RogueConsultingDev
   sections:
     relevant_experience:
       - position: Consultant at Rona
