@@ -97,18 +97,17 @@ cv:
         details: Fluent
 design:
   theme: moderncv
-  text:
-    font_size: 10pt
-  header:
-    name_font_size: 24pt
+  typography:
+    font_size:
+      body: 10pt
+      name: 24pt
+    line_spacing: 0.4em
   page:
     size: a4
-    show_last_updated_date: false
-    show_page_numbering: false
   colors:
-    text: rgb(0,0,0)
+    body: "#000000"
     name: "#3873b3"
     section_titles: "#3873b3"
     connections: "#3873b3"
     links: "#3873b3"
-    last_updated_date_and_page_numbering: "#808080"
+    footer: "#808080"

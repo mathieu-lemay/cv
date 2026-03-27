@@ -6,7 +6,7 @@ authors = [
     {name = "Mathieu Lemay",email = "acidrain1@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
     "rendercv[full] (>=2.2,<3.0)"
 ]
